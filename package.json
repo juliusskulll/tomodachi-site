@@ -10,6 +10,7 @@
     "deploy": "gh-pages -d dist",
     "preview": "vite preview"
   },
+  "homepage": "https://juliusskulll.github.io/YOUR_REPO_NAME"
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
